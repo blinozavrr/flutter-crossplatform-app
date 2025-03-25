@@ -1,22 +1,36 @@
-# my_app
-
-A new Flutter project.
 
 
+## 📸 Demo
 
 https://github.com/user-attachments/assets/ac5843fb-c53a-4d65-a4c2-6eb009823edd
 
 
+# Cross-Platform Mobile App (Flutter)
 
-## Getting Started
+## 📱 Overview
 
-This project is a starting point for a Flutter application.
+This is a simple cross-platform mobile application built with **Flutter** as part of a course assignment. The main objective of this project is to gain hands-on experience in setting up a cross-platform development environment and creating a basic app that runs on both Android and iOS.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 👥 Team
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Syzdykova Malika
+
+---
+
+## 🚀 Features
+
+The app demonstrates three buttons with the following functionalities:
+
+1. **Add Text** – Adds a piece of text to the screen when clicked.
+2. **Remove Text** – Removes the text from the screen.
+3. **Change Background Color** – Toggles the background color of the screen.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** Flutter
+- **Language:** Dart
+- **Platform Support:** Android (tested), iOS (code-compatible)
